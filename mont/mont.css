@@ -1,0 +1,164 @@
+
+@font-face {
+    font-family: 'Mont';
+    src: url('https://newscript.es/fonts/mont-hairline-webfont.woff2') format('woff2'),
+         url('https://newscript.es/fonts/mont-hairline-webfont.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Mont';
+    src: url('https://newscript.es/fonts/mont-hairlineitalic-webfont.woff2') format('woff2'),
+         url('https://newscript.es/fonts/mont-hairlineitalic-webfont.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Mont';
+    src: url('https://newscript.es/fonts/mont-thin-webfont.woff2') format('woff2'),
+         url('https://newscript.es/fonts/mont-thin-webfont.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Mont';
+    src: url('https://newscript.es/fonts/mont-thinitalic-webfont.woff2') format('woff2'),
+         url('https://newscript.es/fonts/mont-thinitalic-webfont.woff') format('woff');
+    font-weight: 200;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Mont';
+    src: url('https://newscript.es/fonts/mont-light-webfont.woff2') format('woff2'),
+         url('https://newscript.es/fonts/mont-light-webfont.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Mont';
+    src: url('https://newscript.es/fonts/mont-lightitalic-webfont.woff2') format('woff2'),
+         url('https://newscript.es/fonts/mont-lightitalic-webfont.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Mont';
+    src: url('https://newscript.es/fonts/mont-book-webfont.woff2') format('woff2'),
+         url('https://newscript.es/fonts/mont-book-webfont.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Mont';
+    src: url('https://newscript.es/fonts/mont-bookitalic-webfont.woff2') format('woff2'),
+         url('https://newscript.es/fonts/mont-bookitalic-webfont.woff') format('woff');
+    font-weight: 400;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Mont';
+    src: url('https://newscript.es/fonts/mont-regular-webfont.woff2') format('woff2'),
+         url('https://newscript.es/fonts/mont-regular-webfont.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Mont';
+    src: url('https://newscript.es/fonts/mont-regularitalic-webfont.woff2') format('woff2'),
+         url('https://newscript.es/fonts/mont-regularitalic-webfont.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Mont';
+    src: url('https://newscript.es/fonts/mont-semibold-webfont.woff2') format('woff2'),
+         url('https://newscript.es/fonts/mont-semibold-webfont.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Mont';
+    src: url('https://newscript.es/fonts/mont-semibolditalic-webfont.woff2') format('woff2'),
+         url('https://newscript.es/fonts/mont-semibolditalic-webfont.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Mont';
+    src: url('https://newscript.es/fonts/mont-bold-webfont.woff2') format('woff2'),
+         url('https://newscript.es/fonts/mont-bold-webfont.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Mont';
+    src: url('https://newscript.es/fonts/mont-bolditalic-webfont.woff2') format('woff2'),
+         url('https://newscript.es/fonts/mont-bolditalic-webfont.woff') format('woff');
+    font-weight: 700;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Mont';
+    src: url('https://newscript.es/fonts/mont-heavy-webfont.woff2') format('woff2'),
+         url('https://newscript.es/fonts/mont-heavy-webfont.woff') format('woff');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Mont';
+    src: url('https://newscript.es/fonts/mont-heavyitalic-webfont.woff2') format('woff2'),
+         url('https://newscript.es/fonts/mont-heavyitalic-webfont.woff') format('woff');
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Mont';
+    src: url('https://newscript.es/fonts/mont-black-webfont.woff2') format('woff2'),
+         url('https://newscript.es/fonts/mont-black-webfont.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Mont';
+    src: url('https://newscript.es/fonts/mont-blackitalic-webfont.woff2') format('woff2'),
+         url('https://newscript.es/fonts/mont-blackitalic-webfont.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+}
+
+
+
+/*
+@font-face {
+    font-family: 'Mont';
+    src: url('mont-extralight-webfont.woff2') format('woff2'),
+         url('mont-extralight-webfont.woff') format('woff');
+    font-weight: lighter;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'Mont';
+    src: url('mont-extralightitalic-webfont.woff2') format('woff2'),
+         url('mont-extralightitalic-webfont.woff') format('woff');
+    font-weight: lighter;
+    font-style: italic;
+} */
